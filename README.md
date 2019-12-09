@@ -1,5 +1,5 @@
 # Super Smash Bros. for NES
-Oh boy, aren't you excited! Imagine SSB was launched for Nintendo Entertainment Systems back in the late 80s. WWell, this is what this game aims for!
+Oh boy, aren't you excited! Imagine SSB was launched for Nintendo Entertainment Systems back in the late 80s. Well, this is what this game aims for!
 
 ## Grabs? Never heard of them...
 If you thought Smash 64 had less features compared to later games of the saga, a 10-year older console isn't going to improve things.
