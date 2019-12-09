@@ -11,4 +11,5 @@ The NES controller has 8 buttons, 6 of which can be used to play games (4 for th
 * Wall jumps
 * Side B
 * Throws (obviously)
+
 Quite a long list, huh? Don't be scared though, the core of Smash will be still present on this game.
